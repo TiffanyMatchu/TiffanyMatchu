@@ -1,16 +1,13 @@
-### Hi there 👋
+<div>
+  <h1>Tiffany Matthew</h1>
+  <p>QA Automation Developer</p>
+</div>
 
-<!--
-**TiffanyMatchu/TiffanyMatchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+### Current Project
+<!-- ### Past Projects -->
+### Reach Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
