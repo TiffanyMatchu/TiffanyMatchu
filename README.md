@@ -4,9 +4,19 @@
 </div>
 
 ### About Me
+
 ### Current Project
-<!-- ### Past Projects -->
-### Reach Me
+### Past Projects
+### Languages and Tools
+- C#
+- Selenium
+- WebDriver
+- Gherkin
+- Visual Studios
+### Connect with Me
+- Linkedin icon
+- Email icon
+  
 
 
 
