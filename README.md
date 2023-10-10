@@ -10,8 +10,7 @@ I am a lifelong learner who enjoys figuring out how things work. This curiosity 
 ### Past Projects
 ### Languages and Tools
 - C#
-- Selenium
-- WebDriver
+- Selenium WebDriver
 - Gherkin
 - Visual Studios
 ### Connect with Me
